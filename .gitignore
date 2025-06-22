@@ -1,0 +1,16 @@
+# Ignore environment variable files
+.env
+
+# Node and Python env folders (if any)
+.venv/
+env/
+venv/
+
+# Streamlit cache and logs
+.streamlit/
+__pycache__/
+*.pyc
+
+# OS junk files
+.DS_Store
+Thumbs.db
